@@ -1,0 +1,11 @@
+{
+  "name": "team-skill",
+  "version": "1.0.0",
+  "type": "module",
+  "main": ".opencode/plugins/team-skill.js",
+  "files": [
+    ".claude-plugin/",
+    ".opencode/plugins/",
+    "skills/"
+  ]
+}

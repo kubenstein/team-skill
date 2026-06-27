@@ -1,0 +1,10 @@
+{
+  "name": "team-skill",
+  "version": "1.0.0",
+  "description": "OpenCode skill package for team workflows.",
+  "author": {
+    "name": "Jakub Niewczas",
+    "email": "niewczas.jakub@gmail.com"
+  },
+  "skills": ["./skills"]
+}
