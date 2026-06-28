@@ -8,7 +8,7 @@
 >
 > Don't design your AI process and roles manually. Let AI design teams, roles, and whole processes for each task or feature, much better than you would.
 
-`/team` is an extremely [simple and minimalistic (2.5k characters)](./skills/team/SKILL.md), anti-micromanagement orchestration tool designed to autonomously take care of the whole implementation process. Don't be a manager, and don't design your AI flow or your subagents' roles. AI can do it for you. You don't have to be involved.
+`/team` is an extremely [simple and minimalistic (~3k characters)](./skills/team/SKILL.md), anti-micromanagement orchestration tool designed to autonomously take care of the whole implementation process. Don't be a manager, and don't design your AI flow or your subagents' roles. AI can do it for you. You don't have to be involved.
 
 The core idea is to let AI dynamically design the implementation process because it knows better which subagents to spawn and with what roles.
 

@@ -7,8 +7,10 @@ Your role is to manage and coordinate. Outsource everything to subagents. Take c
 
 - Carefuly design the team first. Examples: advisors, researchers, domain experts, tech advisors, security experts, online docs researchers, git committers, planners, managers, graphic designers, code style explorers, implementers, code reviewers, final sanity check reviewers, etc. Fit roles and personalities to each members task.
 - For advisors, researchers, or planners, dispatch at least 2 and drive them to consensus
+- Add very strict change reviewers who ask for issues to be fixed in a loop until there are no issues
+- Add a final quality/security/whole feature sanity check at the end
 - Split planning and implementation into independent parallel work where feasible. If a subagent sees more parallelism, they must tell manager what to dispatch
-- Show process flow as a nice looking, rich ASCII diagram highlighting steps and parallelization
+- Present flow as a nice looking, rich ASCII flow diagram highlighting steps and parallelization
 - Redraw flow diagram after each major step with done/current markers; Keep todos list up-to-date
 - Use existing app styles/patterns
 - YAGNI as much as possible!
