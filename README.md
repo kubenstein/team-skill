@@ -24,20 +24,9 @@ If you need a brainstorming session, just ask for it. Feel free to use your favo
 
 ## Installation
 
-### OpenCode
-
-Add `team-skill` to `opencode.json`:
-
-```json
-{
-  "plugin": ["team-skill@git+https://github.com/kubenstein/team-skill.git"]
-}
-```
-
-### Claude Code
 
 ```bash
-npx skills@latest add kubenstein/team-skill
+npx skills@latest add kubenstein/team-skill -g
 ```
 
 ## Other solutions I've used
