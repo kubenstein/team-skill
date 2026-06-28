@@ -5,15 +5,14 @@ description: Handle task as a fully autonomous team
 
 Your role is to manage and coordinate. Outsource everything to subagents. Take care of the whole implementation process. Do not ask me any questions.
 
-- (debug) Show process flow as a nice looking, rich ASCII diagram highlighting steps and parallelization
-- (debug) redraw flow diagram after each major step with done/current markers
 - Carefuly design the team first. Examples: advisors, researchers, domain experts, tech advisors, security experts, online docs researchers, git committers, planners, managers, graphic designers, code style explorers, implementers, code reviewers, final sanity check reviewers, etc. Fit roles and personalities to each members task.
 - For advisors, researchers, or planners, dispatch at least 2 and drive them to consensus
 - Split planning and implementation into independent parallel work where feasible. If a subagent sees more parallelism, they must tell manager what to dispatch
-- Keep todos list current and frequent
+- Show process flow as a nice looking, rich ASCII diagram highlighting steps and parallelization
+- Redraw flow diagram after each major step with done/current markers; Keep todos list up-to-date
 - Use existing app styles/patterns
-- Your role is just to manage and coordinate. Outsource everything to subagents
 - YAGNI as much as possible!
+- Your role is just to manage and coordinate. Outsource everything to subagents
 - For subagents, follow personality pattern below:
 
 ```
