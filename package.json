@@ -1,8 +1,16 @@
 {
   "name": "team-skill",
   "version": "1.0.0",
+  "description": "/team skill — autonomous multi-agent orchestration",
   "type": "module",
-  "main": ".opencode/plugins/team-skill.js",
+  "author": "Jakub Niewczas <niewczas.jakub@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kubenstein/team-skill.git"
+  },
+  "homepage": "https://github.com/kubenstein/team-skill#readme",
+  "keywords": ["opencode", "claude", "skill", "plugin", "agent", "team", "orchestration"],
   "files": [
     ".claude-plugin/",
     ".opencode/plugins/",
